@@ -16,5 +16,16 @@
       "title":"Make Todo App UI",
       "status":1
     }
+  ],
+  "coupons":[
+    {
+      "id":1,
+      "title":"Rs 50 worth balance coupon",
+      "rp":500
+      "isRedeemed":0,
+      "afterRedeem":{
+        "code":"ER5CPW",
+        "message":"500 Reward Point has been successfully redeemed"
+      }
   ]
 }

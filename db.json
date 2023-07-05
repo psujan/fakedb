@@ -27,5 +27,16 @@
         "code":"ER5CPW",
         "message":"500 Reward Point has been successfully redeemed"
       }
-  ]
+    },
+    {
+      "id":2,
+      "title":"Rs 100 worth recharge coupon",
+      "rp":800
+      "isRedeemed":0,
+      "afterRedeem":{
+        "code":"YI98MG",
+        "message":"800 Reward Point has been successfully redeemed"
+      }
+    }
+  ],
 }
